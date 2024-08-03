@@ -1,0 +1,92 @@
+property_type,price,city,bath,area_sqft,bedrooms,year,month,price_type
+House,220000000,Lahore,0,32670.1,0,2019,7,Very High
+House,9500000,Lahore,0,2450.26,3,2019,7,Low
+House,52000000,Lahore,6,5445.02,5,2019,6,Very High
+House,32500000,Lahore,0,5445.02,5,2019,7,High
+House,31500000,Lahore,0,5445.02,6,2019,7,High
+House,13500000,Lahore,4,2041.88,4,2019,4,Medium
+House,87500000,Lahore,5,6534.02,4,2019,6,Very High
+House,16500000,Lahore,0,2722.51,4,2019,4,High
+House,18500000,Lahore,0,2722.51,0,2019,7,High
+House,23500000,Lahore,4,2722.51,4,2019,6,High
+House,22500000,Lahore,4,5445.02,4,2019,4,High
+House,50000000,Lahore,7,4900.52,6,2019,7,Very High
+House,39500000,Lahore,6,2722.51,6,2019,6,Very High
+House,27500000,Lahore,5,3267.01,4,2019,6,High
+House,40000000,Lahore,3,2994.76,6,2019,1,Very High
+House,50000000,Lahore,6,5445.02,5,2019,7,Very High
+House,45000000,Lahore,6,5445.02,5,2019,6,Very High
+House,21200000,Lahore,4,2722.51,3,2019,6,High
+House,23000000,Lahore,5,2722.51,4,2019,6,High
+House,21500000,Lahore,5,2722.51,4,2019,6,High
+House,21500000,Lahore,5,2722.51,4,2019,6,High
+House,40000000,Lahore,6,5445.02,5,2019,6,Very High
+House,26000000,Lahore,5,2722.51,4,2019,6,High
+House,21000000,Lahore,4,2722.51,4,2019,6,High
+House,23000000,Lahore,5,2722.51,4,2019,6,High
+House,23000000,Lahore,6,2722.51,5,2019,6,High
+House,57500000,Lahore,5,5445.02,5,2019,4,Very High
+House,620000000,Lahore,8,35392.6,8,2019,5,Very High
+House,5500000,Lahore,3,680.63,3,2019,6,Low
+House,50000000,Lahore,6,5445.02,5,2019,7,Very High
+House,65000000,Lahore,0,10890,0,2019,6,Very High
+House,1250000000,Lahore,0,43560.2,0,2019,2,Very High
+House,42500000,Lahore,8,5989.52,8,2019,4,Very High
+House,66500000,Lahore,0,10890,0,2019,4,Very High
+House,12000000,Lahore,5,1633.51,5,2019,7,Medium
+House,40000000,Lahore,7,5445.02,6,2019,4,Very High
+House,180000000,Lahore,7,25591.6,5,2019,7,Very High
+House,17000000,Lahore,6,2640.83,5,2019,3,High
+House,47500000,Lahore,0,5445.02,0,2019,5,Very High
+House,17000000,Lahore,5,2722.51,5,2019,6,High
+House,25000000,Lahore,5,4900.52,4,2019,2,High
+House,17600000,Lahore,6,2722.51,5,2019,5,High
+House,17500000,Lahore,6,2722.51,5,2019,5,High
+House,35000000,Lahore,5,4628.27,4,2019,6,Very High
+House,22000000,Lahore,5,2722.51,4,2019,6,High
+House,23500000,Lahore,6,2722.51,5,2019,6,High
+House,41500000,Lahore,6,5445.02,5,2019,6,Very High
+House,23000000,Lahore,5,2722.51,4,2019,6,High
+House,23000000,Lahore,5,2722.51,4,2019,6,High
+House,20500000,Lahore,4,2722.51,3,2019,6,High
+House,21000000,Lahore,4,2722.51,3,2019,6,High
+House,19200000,Lahore,7,2722.51,5,2019,2,High
+House,7700000,Lahore,4,1089,3,2019,6,Low
+House,21500000,Lahore,5,2722.51,4,2019,6,High
+House,11800000,Lahore,4,1361.25,3,2019,5,Medium
+House,26500000,Lahore,5,3811.51,4,2019,6,High
+House,70000000,Lahore,7,10890,6,2019,6,Very High
+House,49500000,Lahore,6,5445.02,5,2019,6,Very High
+House,12500000,Lahore,3,1497.38,2,2019,4,Medium
+House,36000000,Lahore,5,4628.27,4,2019,6,Very High
+House,36000000,Lahore,6,5445.02,5,2019,6,Very High
+House,51000000,Lahore,6,5445.02,5,2019,6,Very High
+House,6000000,Lahore,2,544.5,3,2019,2,Low
+House,5500000,Lahore,2,544.5,3,2019,4,Low
+House,65000000,Lahore,0,5989.52,0,2019,4,Very High
+House,35000000,Lahore,6,5445.02,5,2019,6,Very High
+House,17500000,Lahore,6,2722.51,5,2019,5,High
+House,52500000,Lahore,6,5445.02,5,2019,6,Very High
+House,35000000,Lahore,8,3267.01,5,2019,5,Very High
+House,22500000,Lahore,5,2722.51,5,2019,6,High
+House,22500000,Lahore,5,2722.51,4,2019,6,High
+House,23500000,Lahore,4,2722.51,4,2019,6,High
+House,15500000,Lahore,5,2232.46,5,2019,7,Medium
+House,37000000,Lahore,5,4628.27,4,2019,6,Very High
+House,28000000,Lahore,4,3267.01,4,2019,6,High
+House,23500000,Lahore,5,2722.51,4,2019,6,High
+House,22000000,Lahore,6,2722.51,5,2019,6,High
+House,22000000,Lahore,5,2722.51,4,2019,6,High
+House,21500000,Lahore,5,2722.51,4,2019,6,High
+House,22500000,Lahore,5,2722.51,4,2019,6,High
+House,60000000,Lahore,0,5445.02,0,2019,4,Very High
+House,1200000000,Lahore,0,43560.2,0,2019,4,Very High
+House,380000000,Lahore,0,10890,0,2019,5,Very High
+Flat,3200000,Lahore,2,816.75,2,2019,7,Low
+House,59800000,Lahore,7,5445.02,6,2019,5,Very High
+House,66000000,Lahore,6,10890,6,2019,6,Very High
+House,360000000,Lahore,7,54450.2,5,2019,6,Very High
+House,160000000,Lahore,6,5445.02,5,2019,1,Very High
+House,8000000,Lahore,3,816.75,2,2019,7,Low
+House,480000000,Lahore,0,21780.1,0,2019,5,Very High
+Flat,22500000,Lahore,0,1905.76,0,2019,4,Very High

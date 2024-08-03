@@ -1,0 +1,22 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (dinoalert.vcxproj, dino_alert.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(342,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(345,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(349,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(1129,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(1146,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(1120,9): warning C4101: 'index': unreferenced local variable
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(1291,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(2118,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(2119,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(2120,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(2229,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(2230,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(2231,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(2232,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(2234,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(2511,89): warning C4244: 'argument': conversion from 'long double' to '__int64', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(2511,69): warning C4244: 'argument': conversion from 'long double' to '__int64', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(650): warning C4715: 'Customer::login': not all control paths return a value
+D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\dinoalert\Source.cpp(779): warning C4715: 'EmailQueue::getFrontEmail': not all control paths return a value
+  dinoalert.vcxproj -> D:\ONEDRIVE\OneDrive - FAST National University\3rd semester\DATA STRUCTURES__theory\DS PROJECT\front end\x64\Debug\property.exe
